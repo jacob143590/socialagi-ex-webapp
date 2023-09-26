@@ -1,0 +1,8 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/api/lmExecutor": "pages/api/lmExecutor.js",
+  "/api/lmStreamer": "pages/api/lmStreamer.js"
+}
